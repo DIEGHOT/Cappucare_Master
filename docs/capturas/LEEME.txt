@@ -1,0 +1,4 @@
+Carpeta para las capturas de evidencia de la entrega:
+  - apk-firmado.png : salida de `apksigner verify --print-certs release/Cappucare-v2.0-release.apk`
+  - jks.png         : salida de `keytool -list -v -keystore keystore/cappucare-release.jks`
+  - trello.png      : tablero de Trello con las tareas distribuidas entre los integrantes
